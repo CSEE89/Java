@@ -1,5 +1,5 @@
 package pak;
-
+@author Csabi
 import javafx.application.*;
 import javafx.event.Event;
 import javafx.event.EventHandler;
