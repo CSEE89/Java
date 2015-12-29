@@ -1,5 +1,7 @@
 package pak;
-@author Csabi
+//@author Csabi
+// http://www.programmerinterview.com/index.php/java-questions/java-anonymous-class-example/
+// http://www.javacodegeeks.com/wp-content/uploads/2014/10/Java-8-Features.pdf
 import javafx.application.*;
 import javafx.event.Event;
 import javafx.event.EventHandler;
